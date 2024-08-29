@@ -1,0 +1,9 @@
+historico_do_usuario,vitorias_do_usuario
+['pedra'],1
+"['papel', 'tesoura']",0
+['papel'],0
+['pedra'],0
+"['tesoura', 'pedra', 'pedra']",0
+['papel'],0
+"['papel', 'pedra']",1
+"['tesoura', 'tesoura', 'pedra', 'papel', 'papel', 'papel']",1
